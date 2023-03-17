@@ -1,0 +1,26 @@
+{
+  "app": {
+    "js": [
+      "js/runtime.28e92d.js",
+      "js/259.6cf96b.js",
+      "js/app.ff7fef.js"
+    ],
+    "css": [
+      "css/app.c94e61.css"
+    ],
+    "dependencies": []
+  },
+  "editor": {
+    "js": [
+      "js/runtime.28e92d.js",
+      "js/259.6cf96b.js",
+      "js/editor.359dbc.js"
+    ],
+    "css": [
+      "css/editor.31d6cf.css"
+    ],
+    "dependencies": [
+      "wp-blocks"
+    ]
+  }
+}

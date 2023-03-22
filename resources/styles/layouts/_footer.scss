@@ -1,0 +1,38 @@
+.content-info {
+  .footer-utility {
+    border-top: 2px solid #ccc;
+  }
+  
+  .social-wrap {
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-start;
+    gap: 1em;
+  }
+  
+  .widget_nav_menu .menu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 300px;
+    
+    li {
+      width: 50%;
+
+      
+      a {
+        display: block;
+        padding: 0.5em;        
+      }
+    }
+  }
+}
+
+.footer-cta {
+  background: #FF4B1D;
+  color: white;
+  
+  p {
+    font-size: 2em;
+  }
+}

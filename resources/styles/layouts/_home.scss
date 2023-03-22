@@ -1,0 +1,16 @@
+.home-section {
+  @apply py-5;
+  
+  min-height: 300px;
+  &:nth-of-type(odd) {
+   background: red; 
+  }
+  
+  h2 {
+    font-size: 2em;
+  }
+  
+  .fluid-container {
+    @apply mx-auto px-4;
+  }
+}

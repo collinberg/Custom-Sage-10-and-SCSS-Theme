@@ -17,3 +17,10 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+/node_modules
+/vendor
+/public
+.env
+.budfiles
+npm-debug.log
+yarn-error.log
